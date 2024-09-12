@@ -9,7 +9,7 @@ My name is Jan-Kryštof Zahradník and I am a Software engineer at Profiq
 
 ### 👩🏻‍💻 Stuff I happen to know a lil bit about 👩🏻‍💻
 - JavaScript + TypeScript, Vue.js
-  - Used Professionally in e2e cypress testing and developing web apps
+  - Used Professionally in e2e cypress/playwright testing and developing web apps
 - C/C++
   - Mainly used in School projects etc.
 - C#, Java, Kotlin, 
