@@ -2,7 +2,6 @@
 My name is Jan-Kryštof Zahradník and I am a Software engineer at Profiq 
 
 ### 👷 I’m currently working on:
-  - E2E test Automation at ✨PDQ✨
   - E2E test Automation at ✨Corellium✨
   - My bachelor thesis -> a gym reservation system
 ### 📖 I’m currently learning:
