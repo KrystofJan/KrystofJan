@@ -3,13 +3,18 @@ My name is Jan-Kryštof Zahradník and I am a Software engineer at Profiq
 
 ### 👷 I’m currently working on:
   - E2E test Automation at ✨Corellium✨
-  - My bachelor thesis -> a gym reservation system
-### 📖 I’m currently learning:
-  - A bit of Go and Rust, but sadly, I don't have a lot of time for those at the moment
+  - smaller projects
+### 📖 Learning backlog:
+  - GO <- currently learning
+  - Rust
+  - zig
+  - odin
+  - elixir / gleam
 
 ## 👩🏻‍💻 Stuff I happen to know a lil bit about 👩🏻‍💻
-- JavaScript + TypeScript, Vue.js
+- JavaScript + TypeScript
   - Used Professionally in e2e cypress/playwright testing and developing web apps
+  - Vue.js, React, Next.js
 - C/C++
   - Mainly used in School projects etc.
 - C#, Java, Kotlin
@@ -17,6 +22,8 @@ My name is Jan-Kryštof Zahradník and I am a Software engineer at Profiq
 - Python
   - Used Professionally for API testing using pytest
   - Used on both personal and school projects
+- GO
+  - I'm still a beginner, but I use it from time to time on smaller projects
 
 <!--
 **KrystofJan/KrystofJan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
